@@ -70,7 +70,6 @@ I'm a DevOps Lead with 13+ years of experience in IT and a strong focus on CI/CD
    - Tools: AKS, Helm, Kubernetes, Docker
    - [View Repository](https://github.com/imgcc/kubernetes-aks-deployment)
 
-### 📫 How to Reach Me
 
 - Email: sam2500@me.com<br> 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ddmx/)
