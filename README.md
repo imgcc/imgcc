@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Sam Ewaleifoh
 
-I'm a DevOps Lead with 13+ years of experience in IT and a strong focus on CI/CD automation, cloud migrations, and infrastructure as code (IaC). I've worked with leading cloud platforms like Azure and AWS, where I design, build, and manage scalable cloud infrastructure. I’m passionate about fostering DevOps culture, automating deployments, and creating highly available, secure environments. <br>
+I'm a DevOps Manager with 13+ years of experience in IT and a strong focus on CI/CD automation, cloud migrations, and infrastructure as code (IaC). I've worked with leading cloud platforms like Azure and AWS, where I design, build, and manage scalable cloud infrastructure. I’m passionate about fostering DevOps culture, automating deployments, and creating highly available, secure environments. <br>
 
-🌱 I’m currently learning Google Cloud Platform (GCP) through google's Get Certified Program!<br>
+🌱 Doctorate degree in progress<br>
 
 ### 🛠️ My Tech Stack
 
